@@ -1,0 +1,1 @@
+add desktop shortcuts to "Computer" and "Network"
